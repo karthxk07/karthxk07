@@ -3,9 +3,8 @@
 
 ## Github Stats
 <div style="display:flex" align="center">
-<img alt="contributions" width="436px"  src="https://github-readme-stats.vercel.app/api?username=yvs2701&count_private=true&show_icons=true&theme=dracula"></img>&nspb
-<img alt="top languages" width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvs2701&hide=html&langs_count=6&layout=compact&theme=dracula"></img>
-
+<img alt="contributions" width="436px"  src="https://github-readme-stats.vercel.app/api?username=karthxk07&count_private=true&show_icons=true&theme=dark"></img>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img alt="top languages" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthxk07&langs_count=6&layout=compact&theme=dark"></img>
 </div>
 
 ## Skills
