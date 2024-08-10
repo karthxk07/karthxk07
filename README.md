@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthik Kalyanam
+# Hi 👋, I'm Karthik 
 
 ## 📈Stats
 <p><img align="left" height= 150px src="https://github-readme-stats.vercel.app/api/top-langs?username=karthxk07&show_icons=true&theme=dark&locale=en&layout=compact" alt="karthxk07" /></p>
